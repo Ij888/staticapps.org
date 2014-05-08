@@ -19,3 +19,5 @@ Ideas for articles:
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 StaticApps.org is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
+https://www.codeship.io/projects/091f27e0-b87a-0131-e491-6abfddf11312/status
